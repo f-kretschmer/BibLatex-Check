@@ -64,6 +64,7 @@ requiredEntryFields = {
     "phdthesis": "mastersthesis",
     "www": "online",
     "school": "mastersthesis",
+    "standard": "article",
 }
 
 # BibLaTeX has backwards compatibility with BibTeX for these fiends
